@@ -66,9 +66,9 @@ Your colour choices are saved automatically and will persist when you log out, c
 
 ### 🎮 Quick Start
 
-**1.** Install through CurseForge or manually place the add-on in your `Interface\AddOns` folder.
-**2.** Launch WoW Classic Anniversary.
-**3.** Type `/pbcp`.
-**4.** Select your power type.
-**5.** Pick your colour.
-**6.** Close the window — you're done! 🎨
+**1.** Install through CurseForge or manually place the add-on in your `Interface\AddOns` folder.  
+**2.** Launch WoW Classic Anniversary.  
+**3.** Type `/pbcp`.  
+**4.** Select your power type.  
+**5.** Pick your colour.  
+**6.** Close the window — you're done! 🎨  
