@@ -2,10 +2,6 @@
   <img src="assets/PBCP-logo.png" alt="Power Bar Colour Picker Logo" width="180">
 </p>
 
-<p align="center">
-  <img src="assets/logo.png" alt="Power Bar Colour Picker Logo" width="180">
-</p>
-
 🎨 **Power Bar Colour Picker** is a lightweight World of Warcraft add-on that lets you customise the colours of your character's power bars, making them easier to see and allowing you to tailor them to your personal preference.
 
 > **Currently built for World of Warcraft Classic Anniversary.**
