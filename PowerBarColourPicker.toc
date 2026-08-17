@@ -1,0 +1,7 @@
+## Interface: 20506
+## Title: Power Bar Colour Picker
+## Notes: Choose custom colours for your player power bars
+## Version: 1
+## SavedVariables: PowerBarColourDB
+
+PowerBarColourPicker.lua
