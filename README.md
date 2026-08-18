@@ -56,7 +56,7 @@ Type:
 
 `/pbcp`
 
-This opens the **Power Bar Colour Picker**.
+This opens the **Power Bar Colour Picker** menu.
 
 Simply select the power type you want to customise, choose your preferred colour, then close the window when you're finished.
 
