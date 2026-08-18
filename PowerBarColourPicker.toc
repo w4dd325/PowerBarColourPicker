@@ -3,6 +3,6 @@
 ## Notes: Customise the colours of your character's power bars.
 ## Author: jw_mods
 ## Version: @project-version@
-## SavedVariables: ManaBarColourDB
+## SavedVariables: PowerBarColourDB
 
 PowerBarColourPicker.lua
