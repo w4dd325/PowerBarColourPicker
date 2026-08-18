@@ -1,4 +1,4 @@
-## Interface: 20505
+## Interface: 20506
 ## Title: Power Bar Colour Picker
 ## Notes: Customise the colours of your character's power bars.
 ## Author: jw_mods
