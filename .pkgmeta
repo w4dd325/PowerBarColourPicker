@@ -2,6 +2,6 @@ package-as: PowerBarColourPicker
 
 ignore:
   - README.md
+  - logo.png
   - .gitignore
   - .github
-  - screenshots
