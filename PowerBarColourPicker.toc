@@ -1,7 +1,8 @@
-## Interface: 20506
+## Interface: 20505
 ## Title: Power Bar Colour Picker
-## Notes: Choose custom colours for your player power bars
-## Version: 1
-## SavedVariables: PowerBarColourDB
+## Notes: Customise the colours of your character's power bars.
+## Author: jw_mods
+## Version: @project-version@
+## SavedVariables: ManaBarColourDB
 
 PowerBarColourPicker.lua
