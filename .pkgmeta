@@ -1,0 +1,7 @@
+package-as: PowerBarColourPicker
+
+ignore:
+  - README.md
+  - .gitignore
+  - .github
+  - screenshots
